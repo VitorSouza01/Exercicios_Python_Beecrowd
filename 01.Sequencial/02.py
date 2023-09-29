@@ -7,6 +7,6 @@ Error".
 
 a = int(input())
 b = int(input())
-x = a + b,
+x = a + b
 
 print("X = %i" % x)
